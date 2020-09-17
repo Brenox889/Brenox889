@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello! My name is Breno Mendes :zap:
 
-<!--
-**Brenox889/Brenox889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
+:man_technologist: I am a developer looking to evolve and impact people's lives through technology 
 
-Here are some ideas to get you started:
+### Technologies that I'm focusing on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - :robot: HTML5 | CSS3 | JavaScript | TypeScript | ReactJS | React Native | NodeJS
+
+### Knowledge
+ 
+ - :speech_balloon: JavaScript | TypeScript | PHP | Python
+ - :art: HTML5 | CSS3 | ReactJS | React Native 
+ - :computer: NodeJS | PHP
+ - :man_artist: AxureRP | Figma 
+ 
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brenox889&show_icons=true)](https://github.com/Brenox889)
+
+### :handshake: Connect with me
+
+let's chat about technology and others stuffs
+
+<a href="https://www.linkedin.com/in/breno-mendes-14206318a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Breno Mendes-blue?style=flat-square&logo=linkedin"></a>
+
+⭐️ From [Breno Mendes](https://github.com/Brenox889)
