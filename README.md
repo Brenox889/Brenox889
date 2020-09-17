@@ -1,6 +1,5 @@
 # Hello! My name is Breno Mendes :zap:
 
-----
 :man_technologist: I am a developer looking to evolve and impact people's lives through technology 
 
 ### Technologies that I'm focusing on
