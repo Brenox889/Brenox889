@@ -11,7 +11,7 @@
  - :speech_balloon: JavaScript | TypeScript | PHP | Python
  - :art: HTML5 | CSS3 | ReactJS | React Native 
  - :computer: NodeJS | PHP
- - :man_artist: AxureRP | Figma 
+ - :man_artist: AxureRP | Figma | Illustrator
  
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brenox889&show_icons=true)](https://github.com/Brenox889)
 
