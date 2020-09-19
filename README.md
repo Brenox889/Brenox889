@@ -11,6 +11,7 @@
  - :speech_balloon: JavaScript | TypeScript | PHP | Python
  - :art: HTML5 | CSS3 | ReactJS | React Native 
  - :computer: NodeJS | PHP
+ - :globe_with_meridians: MySQL | SQLite
  - :man_artist: AxureRP | Figma | Illustrator
  
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brenox889&show_icons=true)](https://github.com/Brenox889)
