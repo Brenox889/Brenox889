@@ -20,6 +20,6 @@
 
 let's chat about technology and others stuffs
 
-<a href="https://www.linkedin.com/in/breno-mendes-14206318a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Breno Mendes-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/breno-mendes"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Breno Mendes-blue?style=flat-square&logo=linkedin"></a>
 
 ⭐️ From [Breno Mendes](https://github.com/Brenox889)
