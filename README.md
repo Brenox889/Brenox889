@@ -4,7 +4,7 @@
 
 ### Technologies that I'm focusing on
 
- - :robot: HTML5 | CSS3 | JavaScript | TypeScript | ReactJS | React Native | NodeJS
+ - :robot: HTML5 | CSS3 | JavaScript | TypeScript | ReactJS | React Native | NodeJS | NextJS 
 
 ### Knowledge
  
